@@ -25,7 +25,7 @@ Desenvolvedor<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devico
 
   
   ![Snake animation](https://github.com/Thiagocsoaresbh/Thiagocsoaresbh/blob/master/snake.svg)
-
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocsoaresbh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  
 </div>
