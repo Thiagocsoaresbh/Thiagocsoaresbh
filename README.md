@@ -24,7 +24,7 @@ Desenvolvedor<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devico
   <a href="https://www.linkedin.com/in/thiago-c-soares-b76b132b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-  ![Snake animation](https://github.com/Thiagocsoaresbh/Thiagocsoaresbh/blob/master/snake.svg)
+  ![Snake animation](https://github.com/Thiagocsoaresbh/Thiagocsoaresbh/blob/main/snake.svg)
   
   
   
