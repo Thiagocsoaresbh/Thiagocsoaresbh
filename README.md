@@ -1,9 +1,9 @@
-# Desenvolvedor<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+Desenvolvedor<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 
 <div align="center">
-  <a href="https://github.com/alexalveees">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexalveees&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexalveees&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Thiagocsoaresbh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagocsoaresbh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagocsoaresbh&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="100"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -19,14 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="100" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+ </div>
   
- 
- 
-  
-</div>
-  
-  ##
- 
 <div> 
   <a href="https://www.linkedin.com/in/alexalveees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
