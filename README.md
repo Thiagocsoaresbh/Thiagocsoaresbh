@@ -22,8 +22,8 @@ Desenvolvedor<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devico
  </div>
  
 <div>
-  <a href="https://www.linkedin.com/in/alexalveees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Thiagocsoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/alexalveees/alexalveees/blob/master/snake.svg)
+  ![Snake animation](https://github.com/Thiagocsoaresbh/Thiagocsoaresbh/blob/master/snake.svg)
  
 </div>
