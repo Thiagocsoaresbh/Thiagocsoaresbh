@@ -1,4 +1,4 @@
-Desenvolvedor<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+Desenvolvedor<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /> <img height="50em" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons](https://iconscout.com/icon/php-2752101)/java/java-plain-wordmark.svg](https://iconscout.com/icon/php-2752101)" />
 
 
 <div style="display: inline_block"><br>
