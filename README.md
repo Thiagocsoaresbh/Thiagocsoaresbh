@@ -1,6 +1,5 @@
-Full Stack Developer | Software Engineer<br><br>
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" /> 
+## Full Stack Developer | Software Engineer
+<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" /> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" /> 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
          
