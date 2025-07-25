@@ -20,6 +20,6 @@
   <img align="center" alt="Thiago-C-Soares-CSS" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Thiago-C-Soares-CSS" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Thiago-C-Soares-CSS" height="30" width="100" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-  <img align="center" alt="Thiago-C-Soares-CSS" height="30" width="100" src="https://img.shields.io/docker/cloud/build/:user/:repo">
+  <img align="center" alt="Thiago-C-Soares-CSS" height="30" width="100" src="https://img.shields.io/docker/cloud/build/">
 
 </div>
