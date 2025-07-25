@@ -21,6 +21,7 @@
  </div>
  
 <div>
+<p>My Linkedin</p>
   <a href="https://www.linkedin.com/in/thiago-c-soares-b76b132b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
