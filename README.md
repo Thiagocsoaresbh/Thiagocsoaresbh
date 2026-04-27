@@ -6,7 +6,7 @@ I have worked on mission-critical projects for large enterprises and government 
 
 ### Key Highlights
 
-* 25+ years in software engineering and system architecture
+* 20+ years in software engineering and system architecture
 * Experience with high-scale systems (10k+ users, real-time telemetry, APIs)
 * Strong background in Java (Spring Boot), Node.js, React, and microservices
 * Expertise in cloud platforms: AWS, Google Cloud, Azure
